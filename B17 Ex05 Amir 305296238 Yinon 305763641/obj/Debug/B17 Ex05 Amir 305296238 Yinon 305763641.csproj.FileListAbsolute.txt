@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\bin\Debug\B17 Ex05 Amir 305296238 Yinon 305763641.exe.config
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\bin\Debug\B17 Ex05 Amir 305296238 Yinon 305763641.exe
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\bin\Debug\B17 Ex05 Amir 305296238 Yinon 305763641.pdb
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\obj\Debug\B17 Ex05 Amir 305296238 Yinon 305763641.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\obj\Debug\B17_Ex05_Amir_305296238_Yinon_305763641.FormChooseColor.resources
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\obj\Debug\B17_Ex05_Amir_305296238_Yinon_305763641.FormGameSettings.resources
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\obj\Debug\B17_Ex05_Amir_305296238_Yinon_305763641.Properties.Resources.resources
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\obj\Debug\B17 Ex05 Amir 305296238 Yinon 305763641.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\obj\Debug\B17 Ex05 Amir 305296238 Yinon 305763641.exe
+C:\Users\user\Desktop\Amir Hagafny - C# Four guesses\B17 Ex05 Amir 305296238 Yinon 305763641\obj\Debug\B17 Ex05 Amir 305296238 Yinon 305763641.pdb
